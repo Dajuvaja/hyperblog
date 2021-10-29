@@ -2,4 +2,4 @@ Idk, this is just a test.
 Agregando una nueva línea de código,
 para probar commits.
 
-Estamos aprendiendo a usar Git (nuevo cambio) con GitHub
+Estamos aprendiendo a usar Git (nuevo cambio) con GitHub (nuevo cambio) en Platzi
