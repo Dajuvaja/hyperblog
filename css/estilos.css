@@ -7,18 +7,36 @@ body {
   padding-top: 25px;
 }
 
+#cabecera {
+  background: #33a;
+  box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
+  color: white;
+  font-weight: bold;
+  margin: 0;
+  padding: 0.8em;
+}
+
+#cabecera #tagline {
+  padding: 0 0 0 1em;
+  font-weight: normal;
+  font-size: 0.8em;
+}
+
 #container {
   width: 70%;
-  padding: 1em;
   text-align: left;
   border-bottom: 3px solid #fafa;
   border-right: 10px solid #fff233;
   border-left: 10px solid #33beff;
   border-top: 3px solid #ff8533;
-  padding-top: 25px;
   margin: 0 auto;
 }
 
 #container h1 {
   font-size: 20px;
+}
+
+#post {
+  margin-top: 35px;
+  margin-bottom: 35px;
 }
