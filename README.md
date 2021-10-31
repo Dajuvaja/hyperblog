@@ -2,7 +2,7 @@
 Un blog para el curso de Git y Github de Platzi
 >Se creó este repositorio para aprender y practicar lo visto durante el curso de Git y Github
 
-##En este curso se vio de todo:
+## En este curso se vio de todo:
 * Practicamente la totalidad de los comandos de Git
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas prácticas
